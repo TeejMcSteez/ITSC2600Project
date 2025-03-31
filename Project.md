@@ -10,7 +10,7 @@ date: "2025-02-31"
 
 [Source$_2$](https://www.datagrail.io/blog/data-privacy/data-privacy-issues/)
 
-[Source$_2$](https://www.pewresearch.org/internet/2023/10/18/views-of-data-privacy-risks-personal-data-and-digital-privacy-laws/)
+[Source$_3$](https://www.pewresearch.org/internet/2023/10/18/views-of-data-privacy-risks-personal-data-and-digital-privacy-laws/)
 
 - Data Trading
 - Location Tracking
