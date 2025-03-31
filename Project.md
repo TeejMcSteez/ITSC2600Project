@@ -14,9 +14,9 @@ Divide work between:
 
 1. Introduction to the Research Topic (**Assigned:** name(s) )
     - Presenting question
-    - Explain choice of topic (**Assigned:** name(s) )
+    - Explain choice of topic
     - Summarize current literature on the topic
-2. Evaluation of the Issue
+2. Evaluation of the Issue (**Assigned:** name(s) )
     - Explain why this is an ethical concern
     - Discuss possible solution or mitigation, supported by sources
 3. Group Stance (**Assigned:** name(s) )
