@@ -1,5 +1,9 @@
 # Critical Thinking in Computing
 
+Click below for the google slides link:
+
+[Google Slides Link](https://docs.google.com/presentation/d/1ebvvYBxyPr-o-rFclON3kYtvlmeDvc6z71pgwLMpy4s/edit?usp=sharing)
+
 **Due Date:** Friday, April 4th @ 11:59pm  
 *(Late submissions accepted until Sunday, April 6th)*
 
