@@ -1,6 +1,6 @@
 # Critical Thinking in Computing
 
-Click below for the google slides link:
+Click below for the Google Slides presentation link:
 
 [Google Slides Link](https://docs.google.com/presentation/d/1ebvvYBxyPr-o-rFclON3kYtvlmeDvc6z71pgwLMpy4s/edit?usp=sharing)
 
