@@ -1,21 +1,24 @@
 ---
-title: "Issues in Data Privacy"
+title: "Evolving Technology Threats"
 description: "Used to keep a record of information, meetings, and decisions made by the team"
 date: "2025-02-31"
 ---
 
-## Issues in Data Privacy
+## Topic
 
-[Source$_1$](https://digitalprivacy.ieee.org/publications/topics/ethical-issues-related-to-data-privacy-and-security-why-we-must-balance-ethical-and-legal-requirements-in-the-connected-world)
-
-[Source$_2$](https://www.datagrail.io/blog/data-privacy/data-privacy-issues/)
-
-[Source$_3$](https://www.pewresearch.org/internet/2023/10/18/views-of-data-privacy-risks-personal-data-and-digital-privacy-laws/)
-
-- Data Trading
-- Location Tracking
-- Data Hoarding
-- Education
-- Law Enforcement and/or surveillance
+How Evolving technologies and cybersecurity threats impacts the balance between data privacy and user convenience in todays world.
 
 ## Monday Meeting
+
+Divide work between:
+
+1. Introduction to the Research Topic
+    - Presenting question
+    - Explain choice of topic (reasoning)
+    - Summarize current literature on the topic
+2. Evaluation of the Issue
+    - Explain why this is an ethical concern
+    - Discuss possible solution or mitigation, supported by sources
+3. Group Stance
+    - Share group conclusion/perspective
+    - Propose actionable ideas for addressing the issue
